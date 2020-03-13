@@ -1,6 +1,6 @@
 # Assignment — D3 Event Handling
 
-Link to your GitHub pages website: https://github.com/NEU-DS-4200-S20/in-class-programming-d3-event-handling-amshaw39
+Link to your GitHub pages website: https://neu-ds-4200-s20.github.io/in-class-programming-d3-event-handling-amshaw39/
 
 # Aim of the assignment
 
